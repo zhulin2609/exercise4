@@ -46,6 +46,4 @@ describe('this', function () {
       obj.say()
     })
   })
-
-  
 })
